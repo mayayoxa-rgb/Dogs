@@ -1,0 +1,16 @@
+body {
+    font-family: sans-serif;
+    background-image: url("https://news.harvard.edu/wp-content/uploads/2023/11/dog_brains_2500.png");
+    background-size: cover; background-repeat: no-repeat;
+
+}
+img{
+    width: 20px;
+    height: 20px;
+}
+
+li{
+    color:purple;
+    font-family: Verdana;
+    font-size: 20px;
+}
